@@ -111,3 +111,11 @@ void binarySearch()
         cout << x << "Tidak ditemukan" << endl; // step 9
     }
 }
+
+int main()
+{
+    input();
+    bubleshortArray();
+    display();
+    binarySearch();
+}
